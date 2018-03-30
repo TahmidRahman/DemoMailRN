@@ -1,0 +1,16 @@
+[
+  {
+    "id":8,
+    "sender":"",
+    "recipent":"",
+    "subject":"No subject",
+    "body":"Somebody to take down"
+  },
+  {
+    "id":9,
+    "sender":"Taylor Swift",
+    "recipent":"",
+    "subject":"Hey!",
+    "body":"I created an app featuring you!"
+  }
+]

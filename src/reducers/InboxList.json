@@ -1,0 +1,37 @@
+[
+  {
+    "id":0,
+    "sender":"Mr. Nobody",
+    "recipent":"",
+    "subject":"Hello You There?",
+    "body":"I want to talk to you"
+  },
+  {
+    "id":1,
+    "sender":"ChatBot",
+    "recipent":"",
+    "subject":"XYZ",
+    "body":"Hello... testing 123"
+  },
+  {
+    "id":2,
+    "sender":"Rupam",
+    "recipent":"",
+    "subject":"Hey!",
+    "body":"This is a Test mail!!!!!"
+  },
+  {
+    "id":3,
+    "sender":"SpiderMan",
+    "recipent":"",
+    "subject":"You there?",
+    "body":"Hey, I am from your friendly neighborhood"
+  },
+  {
+    "id":4,
+    "sender":"Virtual QA",
+    "recipent":"",
+    "subject":"Testing",
+    "body":"this is a test message...."
+  }
+]

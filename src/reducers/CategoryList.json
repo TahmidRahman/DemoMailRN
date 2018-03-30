@@ -1,0 +1,14 @@
+[
+  {
+    "id":0,
+    "title":"Inbox"
+  },
+  {
+    "id":1,
+    "title":"Sent Items"
+  },
+  {
+    "id":2,
+    "title":"Draft"
+  }
+]
